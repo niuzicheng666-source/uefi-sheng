@@ -105,3 +105,7 @@
   UniXNUPkg/Driver/UniXNURamDiskDxe/UniXNURamDiskDxe.inf
   shengPkg/Drivers/ShengKeyInputDxe/ShengKeyInputDxe.inf
   DarwinBootPkg/Driver/DarwinBoot.inf
+
+[LibraryClasses]
+  UniXNULib|UniXNUPkg/Library/UniXNULib/UniXNULib.inf
+  FdtLib|MdePkg/Library/BaseFdtLib/BaseFdtLib.inf
